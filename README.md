@@ -1,2 +1,3 @@
-# presets
-Voltage Modular presets
+# Collider Modular Presets for Voltage Modular
+
+http://collidermodular.com/
